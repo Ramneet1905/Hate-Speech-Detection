@@ -91,3 +91,13 @@ Commit your Changes (git commit -m 'Add some AmazingFeature').
 Push to the Branch (git push origin feature/AmazingFeature).
 
 Open a Pull Request.
+
+## 🛠️ Project Roadmap
+We use an Agile workflow to track milestones and development progress. You can view our live sprints, backlog, and upcoming deployment phases directly on our project board:
+
+👉 **[View the Live Project Board](https://github.com/users/Ramneet1905/projects/1/views/1)**
+
+## 🚀 Current Status
+- **Data Preprocessing:** Completed (Regex cleaning, tokenization, punctuation removal)
+- **Modeling:** In Progress (TF-IDF Feature extraction & Baseline training)
+- **Deployment:** Upcoming (Interactive Streamlit Dashboard)
